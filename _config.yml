@@ -13,16 +13,16 @@ menus:
 		link: message/
 
 profile:
-	location: ChengDu, China
-	github: yumemor
+	location: GuangZhou, China
+	github: TheKing
 	#stackoverflow: 
 		#title: yumemor
 		#href: http://stackoverflow.com/users/5662132/yumemor
 	#organization: 组织/公司
 
 github: 
-	username: yumemor
-  popular_repos: [hexo-theme-primer]
+	username: TY-The-King
+  popular_repos: [Spring-Cloud-Nacos]
 
 search: local #google｜local
 
